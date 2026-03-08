@@ -18,7 +18,7 @@ https://4tv.nxns.uno/moonkey/4tv/raw/branch/main/tv.m3u
 https://raw.githubusercontent.com/mymsnn/DailyIPTV/main/outputs/full_validated.m3u
 https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/港台大陆无18内容
 https://gitee.com/alexkw/app/raw/master/kgk.txt
-
+https://raw.githubusercontent.com/jk2024988/TV2024/refs/heads/main/%E6%B9%96%E5%8D%97%E5%A8%84%E5%BA%95%E7%A7%BB%E5%8A%A8.m3u
 https://cloud.7so.top/f/volzIA/LiTV.m3u
 https://files.catbox.moe/dt9svf.txt
 http://is.is-great.org/ii/1749383140.txt
@@ -33,14 +33,14 @@ https://tmxk.pp.ua/iptv-cn.m3u
 https://gitee.com/buzhenglin2025/tv/raw/master/HKTV.m3u
 https://cloud.7so.top/f/xv80ux/天浪.txt
 https://cloud.7so.top/f/yr7BHL/HKTV.txt
-
+https://raw.githubusercontent.com/jk2024988/TV2024/refs/heads/main/%E8%BE%BD%E5%AE%81%E7%A7%BB%E5%8A%A8.m3u
 https://gitee.com/main-stream/tv/raw/master/BOSS.json
 https://gitee.com/jin-xueling/cinematography/raw/master/json.txt
 https://d.kstore.dev/download/15114/TVSolo.txt
 https://raw.githubusercontent.com/alantang1977/TVsmile/refs/heads/main/网络收集.txt
 https://raw.githubusercontent.com/alantang1977/TVsmile/refs/heads/main/组播优选.txt
 https://dsj-1312694395.cos.ap-guangzhou.myqcloud.com/dsj10.1.txt
-
+https://raw.githubusercontent.com/jk2024988/TV2024/refs/heads/main/%E6%B9%96%E5%8C%97%E7%A7%BB%E5%8A%A8%E5%85%A8%E5%A5%97.txt
 https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
@@ -48,3 +48,5 @@ https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://live.hacks.tools/tv/iptv4.txt
 http://xo.html-5.me//i/9918352.txt
+https://raw.githubusercontent.com/jk2024988/TV2024/refs/heads/main/%E2%97%86%E5%A4%A9%E6%B4%A5%E2%97%86%E6%B2%B3%E4%B8%9C%E2%97%86%E8%81%94%E9%80%9A%E2%97%86148%E4%B8%AA%E2%97%86.m3u8
+
